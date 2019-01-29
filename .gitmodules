@@ -1,12 +1,12 @@
 [submodule "0x-eth-options"]
 	path = 0x-eth-options
-	url = git@github.com:https://github.com/nickgeoca/0x-eth-options
+	url = https://github.com/nickgeoca/0x-eth-options
 [submodule "0x-frontend"]
 	path = 0x-frontend
-	url = git@github.com:https://github.com/nickgeoca/0x-frontend
+	url = https://github.com/nickgeoca/0x-frontend
 [submodule "0x-relayer"]
 	path = 0x-relayer
-	url = git@github.com:https://github.com/nickgeoca/0x-relayer
+	url = https://github.com/nickgeoca/0x-relayer
 [submodule "0x-test-chain"]
 	path = 0x-test-chain
-	url = git@github.com:https://github.com/nickgeoca/0x-test-chain
+	url = https://github.com/nickgeoca/0x-test-chain
