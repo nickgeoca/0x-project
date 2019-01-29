@@ -1,7 +1,30 @@
-0x-test-chain - yarn ganache-cli
-0x-relayer    - yarn watch:ts
-0x-relayer    - yarn start:ts
-0x-frontend   - yarn start 
+0x-test-chain
+```
+# Setup
+yarn install
+yarn build
+yarn download_snapshot
+
+# Run
+yarn ganache-cli
+```
+
+0x-relayer
+```
+# Setup
+yarn install
+yarn build
+yarn watch:ts
+yarn start:ts
+```
+
+0x-frontend
+```
+# Setup
+yarn install
+yarn build
+yarn start 
+```
 
 0x launch kit is the orderbook backend that tracks orders and prunes the orderbook.
 
