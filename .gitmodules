@@ -1,9 +1,9 @@
 [submodule "0x-eth-options"]
 	path = 0x-eth-options
 	url = https://github.com/nickgeoca/0x-eth-options
-[submodule "0x-frontend"]
-	path = 0x-frontend
-	url = https://github.com/nickgeoca/0x-frontend
+[submodule "0x-web-stack"]
+	path = 0x-web-stack
+	url = https://github.com/nickgeoca/0x-web-stack
 [submodule "0x-relayer"]
 	path = 0x-relayer
 	url = https://github.com/nickgeoca/0x-relayer
